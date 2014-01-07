@@ -1,0 +1,18 @@
+{
+  "name": "crisma-widget-shares",
+    "version": "0.1.0",
+    "main": ["dist/scripts/crisma-widget-shares.js", "dist/scripts/crisma-widget-shares.min.js"],
+    "ignore": [
+        ".*",
+        "app",
+        "config",
+        "nbproject",
+        "test",
+        "Gruntfile.js",
+        "karma*",
+        "package.json"
+    ],
+    "dependencies": {
+        "angular": ">=1.2.0"
+    }
+}
